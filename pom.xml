@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application-1</artifactId>
+	<artifactId>html-website-templates</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application-1</name>
+	<namehtml-website-templates</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -129,7 +129,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application-1</finalName>
+		<finalName>html-website-templates</finalName>
 		
 		<plugins>
 			<plugin>
